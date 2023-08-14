@@ -10,7 +10,7 @@ Please read instractions from below who are going to join the KiwiQA Services ac
 - Add Company as KiwiQA Services
 - Add URL - https://www.kiwiqa.com
 - Please make sure you have a profile picture at least (You can add whichever you like but at least have one)
-- Once account is created, please contact your lead or RahulR with your GitHub ID. Soon you'll receive a request to be part of the KiwiQA Organization Central repository. Once you accept, your account will display you as an employee of the KiwiQA Services organization.
+- Once account is created, please contact your lead with your GitHub ID. Soon you'll receive a request to be part of the KiwiQA Organization Central repository. Once you accept, your account will display you as an employee of the KiwiQA Services organization.
 
 From, 
 1. [KiwiQA-Services](https://github.com/KiwiQA-Services) - Organization
